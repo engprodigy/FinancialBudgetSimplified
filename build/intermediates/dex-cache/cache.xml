@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\BELLO\AndroidStudioProjects\com.dianet.efd_app.MainActivity\app\build\intermediates\exploded-aar\com.auth0.android\auth0\1.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c805ee5ca278bc88b59a6a92ab47458f1078b626">
+        <dex dex="C:\Users\BELLO\AndroidStudioProjects\com.dianet.efd_app.MainActivity\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.auth0.android-auth0-1.0.0_08cf3ec7be3a7e2d475378d888582a35be6397b2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\BELLO\AndroidStudioProjects\com.dianet.efd_app.MainActivity\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\BELLO\AndroidStudioProjects\com.dianet.efd_app.MainActivity\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_e3e8d86e20b63a8139ff6ec1a1c07b61ba7478a8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\BELLO\AndroidStudioProjects\com.dianet.efd_app.MainActivity\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\BELLO\AndroidStudioProjects\com.dianet.efd_app.MainActivity\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_ff9c7b7766f5eeddafe5c5806b14a0c3e9d51f38\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\BELLO\AndroidStudioProjects\com.dianet.efd_app.MainActivity\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\BELLO\AndroidStudioProjects\com.dianet.efd_app.MainActivity\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_fe1c0e810cbdeaf53b0732b0be848cb63fa8201f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\BELLO\AndroidStudioProjects\com.dianet.efd_app.MainActivity\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a86c0839531c98470728bd78bef60de6b9f46e0d">
+        <dex dex="C:\Users\BELLO\AndroidStudioProjects\com.dianet.efd_app.MainActivity\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_984c214a3a57a17b59cce81771e3f63072f38417\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\BELLO\AndroidStudioProjects\com.dianet.efd_app.MainActivity\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\BELLO\AndroidStudioProjects\com.dianet.efd_app.MainActivity\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_76319dfeafcedde3008b9bef6e0bf0e5e8614f16\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\BELLO\AndroidStudioProjects\com.dianet.efd_app.MainActivity\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="C:\Users\BELLO\AndroidStudioProjects\com.dianet.efd_app.MainActivity\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.2.1_c045312eb58ba8ddbf6d767603cad5c7c9e1509d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\BELLO\AndroidStudioProjects\com.dianet.efd_app.MainActivity\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\BELLO\AndroidStudioProjects\com.dianet.efd_app.MainActivity\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_cd858f7beaf4569323538a09a61c744ac37d5fea\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\BELLO\AndroidStudioProjects\com.dianet.efd_app.MainActivity\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\BELLO\AndroidStudioProjects\com.dianet.efd_app.MainActivity\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_66fc4250cf5342ccd2eee7d31d0fd71f05e855b9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\BELLO\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.6.2\f1bc476cc167b18e66c297df599b2377131a8947\gson-2.6.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f1bc476cc167b18e66c297df599b2377131a8947">
+        <dex dex="C:\Users\BELLO\AndroidStudioProjects\com.dianet.efd_app.MainActivity\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.6.2_c107df0c2ed813de69422358cc8c6c1fc57c2b9a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\BELLO\.gradle\caches\modules-2\files-2.1\com.squareup\otto\1.3.8\cf615176cd1177edf71d3c9605f8dc148fede6be\otto-1.3.8.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cf615176cd1177edf71d3c9605f8dc148fede6be">
+        <dex dex="C:\Users\BELLO\AndroidStudioProjects\com.dianet.efd_app.MainActivity\app\build\intermediates\transforms\dex\debug\folders\1000\10\otto-1.3.8_79bfa86a65ed57f108ba4a6fe7344505a1a864da\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\BELLO\AndroidStudioProjects\com.dianet.efd_app.MainActivity\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\BELLO\AndroidStudioProjects\com.dianet.efd_app.MainActivity\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_cc70d5cb51d1290a541b01395360d60320d6c307\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\BELLO\AndroidStudioProjects\com.dianet.efd_app.MainActivity\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\BELLO\AndroidStudioProjects\com.dianet.efd_app.MainActivity\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_09ab44dd097ac93adcc600cdfa8ff7a2085c8b71\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\BELLO\AndroidStudioProjects\com.dianet.efd_app.MainActivity\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bb42b36b380d7c474b476b4d58a46412d994d0b7">
+        <dex dex="C:\Users\BELLO\AndroidStudioProjects\com.dianet.efd_app.MainActivity\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_dfe9249870397f65ac3d6696b3358271a2f9dddc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\BELLO\AndroidStudioProjects\com.dianet.efd_app.MainActivity\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\BELLO\AndroidStudioProjects\com.dianet.efd_app.MainActivity\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_febb01f8559a592612ab0e9381ef8809cac7ef5f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\BELLO\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="C:\Users\BELLO\AndroidStudioProjects\com.dianet.efd_app.MainActivity\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.6.0_7d59018fd51e26d4b1cb2c19423c4adf9fbd1b88\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\BELLO\AndroidStudioProjects\com.dianet.efd_app.MainActivity\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\BELLO\AndroidStudioProjects\com.dianet.efd_app.MainActivity\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_e51ecc93c7c370c08ca83e15f8359f741f79dcbf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\BELLO\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.5.0\4de2b4ed3445c37ec1720a7d214712e845a24636\okhttp-2.5.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4de2b4ed3445c37ec1720a7d214712e845a24636">
+        <dex dex="C:\Users\BELLO\AndroidStudioProjects\com.dianet.efd_app.MainActivity\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-2.5.0_c0d78d1d186f8fc3c78eeed074eca1c923716a68\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\BELLO\AndroidStudioProjects\com.dianet.efd_app.MainActivity\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\BELLO\AndroidStudioProjects\com.dianet.efd_app.MainActivity\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_fe3410b06dc3cf2d8a8bfb510e7e2fd866ef185a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\BELLO\AndroidStudioProjects\com.dianet.efd_app.MainActivity\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\BELLO\AndroidStudioProjects\com.dianet.efd_app.MainActivity\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_218e81ed678c8703b30bc9b6412e44f666ee5df4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\BELLO\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\BELLO\AndroidStudioProjects\com.dianet.efd_app.MainActivity\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_3d8c5af8d7bcc6ace1c07b2b0814772f9c7d8c88\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\BELLO\AndroidStudioProjects\com.dianet.efd_app.MainActivity\app\build\intermediates\exploded-aar\com.android.support\percent\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c394e9a7e1552a4499c7d7d25e7eccd6a533b6df">
+        <dex dex="C:\Users\BELLO\AndroidStudioProjects\com.dianet.efd_app.MainActivity\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-percent-24.2.1_75d030705991317c5709a6c72450ed5c2e43a233\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\BELLO\AndroidStudioProjects\com.dianet.efd_app.MainActivity\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="C:\Users\BELLO\AndroidStudioProjects\com.dianet.efd_app.MainActivity\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.2.1_d60c8760f0b79416c0d7fb925837d7d14b6a727e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\BELLO\AndroidStudioProjects\com.dianet.efd_app.MainActivity\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\BELLO\AndroidStudioProjects\com.dianet.efd_app.MainActivity\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_6a35a51444439bb32145860245ff4505cc5e0ca4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\BELLO\AndroidStudioProjects\com.dianet.efd_app.MainActivity\app\build\intermediates\exploded-aar\com.auth0.android\lock\2.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9ff1c629c0a6614758d0bd63f045a84e262e0f96">
+        <dex dex="C:\Users\BELLO\AndroidStudioProjects\com.dianet.efd_app.MainActivity\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.auth0.android-lock-2.0.0_0102f6e9fb4c67aee39b8187f089d57ef773ca0b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\BELLO\AndroidStudioProjects\com.dianet.efd_app.MainActivity\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\BELLO\AndroidStudioProjects\com.dianet.efd_app.MainActivity\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_5ec68ad3253b55721cb81df32795e0d5f13f2f83\classes.dex" />
+    </item>
+
+</items>

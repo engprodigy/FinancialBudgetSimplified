@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/account1name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/account1name"
+              android:layout_marginTop="20dp"    
+              android:textColor="#0CF"     />
+         <EditText
+        android:id="@+id/account1nameentry"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="@string/account1nameentry"
+        android:textColor="#0CF" />
+          <EditText
+        android:id="@+id/account1amountentry"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="@string/account1amountentry" 
+        android:textColor="#0CF"/>
+        
+
+
+          
+    <TextView
+            android:id="@+id/account2name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/account1name"
+             android:layout_marginTop="20dp"
+             android:textColor="#0CF"
+                       />
+         <EditText
+        android:id="@+id/account2nameentry"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="@string/account2nameentry"
+        android:textColor="#0CF" />
+          <EditText
+        android:id="@+id/account2amountentry"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="@string/account2amountentry"
+        android:textColor="#0CF" />
+          
+    
+</LinearLayout>

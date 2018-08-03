@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name"></string>
+    <string name="account_type">account</string>
+    <string name="Add_Transaction">Add Transaction</string>
+    <string name="transactions">types</string>
+    <string name="edit_amount">amount</string>
+    <string name="title_activity_main">Financial Budget Simplified</string>
+    <string name="transactionsdate">entrydate</string>
+
+    <string-array name="transcationtype_array">
+        <item>Expense</item>
+        <item>Budgets</item>
+        <item>Income</item>
+        <item>Transfer</item>
+        <item>Balance Reset</item>
+    </string-array>
+
+     <string name="tag">tags </string>
+    <string name="edit_tag">e.g. Phone Bill</string>
+    <string name="edit_cash">cash</string>
+    <string name="description">description</string>
+    <string name="description_type"></string>
+    <string name="date">date:</string>
+    <string name="edit_date">dd/mm/yy</string>
+    <string name="allaccounts">All Account</string>
+    <string name="allaccountsvalue">zero</string>
+    <string name="newaccounttype">Add New Account</string>
+    <string name="newaccounttypevalue">zero</string>
+    <string name="addnewaccount">+</string>
+    <string name="save">save</string>
+    <string name="account1name">Account 1</string>
+    <string name="account1nameentry">Account 1</string>
+    <string name="account1amountentry">Amount</string>
+    <string name="account2name">Account 2</string>
+    <string name="account2nameentry">Account 2</string>
+    <string name="account2amountentry">Amount</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_accounts_view">Accounts Type</string>
+    <string name="accounttypesavebutton">Save</string>
+    <string name="title_activity_account_type_db_adapter">AccountTypeDbAdapter</string>
+    <string name="mydatedisplay">dd/mm/yy</string>
+    <string name="dateupdate">pick date</string>
+    <string name="menu_home">HOME</string>
+    <string name="menu_settings">HISTORY</string>
+    <string name="menu_budgets">BUDGETS</string>
+    <string name="menu_home2">HOME</string>
+    <string name="menu_settings2">HISTORY</string>
+    <string name="menu_budgets2">BUDGETS</string>
+     <string name="export_budgets">EXPORT BUDGET</string>
+    <string name="title_activity_view__entry_history"></string>
+    <string name="title_activity_list_view_loader">ListViewLoader</string>
+    <string name="title_activity_budget_setup">BudgetSetup</string>
+    <string name="main_no_items">No orders to display</string>
+    <string name="title_activity_array_list_tester">Histor</string>
+    <string name="title_activity_monthly_budget_amount_setup_main">MonthlyBudgetAmount</string>
+    <string name="budget_type">Budget Type:</string>
+    <string name="budget_amount">Set/Edit Monthly Budget Amount</string>
+    <string name="update">UPDATE</string>
+    <string name="delete">DELETE</string>
+    <string name="selectDateRange">View Between Date Range</string>
+    <string name="startdate"> </string>
+    <string name="enddate"> </string>
+    <string name="retrieve_entry">Retrieve</string>
+    <string name="last20entry">Here Are Your Last 20 Entry Below:</string>
+    <string name="alert_dialog_cancel">Cancel</string>
+    <string name="alert_dialog_delete">Delete</string>
+    <string name="nodata">No Data</string>
+    <string name="alert_dialog_title">Delete Selected Entry</string>
+    <string name="home_alert_dialog_continue">Continue</string>
+    <string name="home_alert_dialog_cancel">Cancel</string>
+    <string name="home_alert_dialog_title">You Will be Exceeeding Your Monthly Budget for this Expense</string>
+    <string name="home_alert_dialog_title2">Are You Sure You Want To Delete This Entry?</string>
+    <string name="previous">&lt;</string>
+    <string name="next">></string>
+    <string name="total">All expenses total</string>
+    <string name="total2">Income during period</string>
+    <string name="total3">Total</string>
+    <string name="id">tag</string>
+    <string name="navigationmenu">explore more!</string>
+    <string name="category_tag">tags by category</string>
+    
+    
+    
+    <style name="ButtonText">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_margin">3dp</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:shadowColor">#000000</item>
+        <item name="android:shadowDx">1</item>
+        <item name="android:shadowDy">1</item>
+        <item name="android:shadowRadius">2</item>
+    </style>
+	
+	<string name="action_settings">Settings</string>
+    <string name="hello_world2">Hello world!</string>
+    <string name="drawer_open">Slider Menu Opened</string>
+    <string name="drawer_close">Slider Menu Closed</string>
+    
+    <!-- Nav Drawer Menu Items -->
+    <string-array name="nav_drawer_items">
+        <item >Home</item>
+        <item >Graphical Reports</item>
+        <item >Shopping</item>
+        <item >Communities</item>
+        <item >Settings</item>
+        <item >What\'s Hot</item>
+    </string-array>
+    
+    <!-- Nav Drawer List Item Icons -->
+    <!-- Keep them in order as the titles are in -->
+    <array name="nav_drawer_icons">
+        <item>@drawable/ic_home</item>
+        <item>@drawable/ic_people</item>
+        <item>@drawable/ic_photos</item>
+        <item>@drawable/ic_communities</item>
+        <item>@drawable/ic_pages</item>
+        <item>@drawable/ic_whats_hot</item>
+    </array>
+    
+    <!-- Content Description -->
+    <string name="desc_list_item_icon">Item Icon</string>
+
+    <string name="auth0_client_id">sSy6lCG6k0AFDWlmv1khKGBARzOBBA10</string>
+    <string name="auth0_domain">engprodigy.auth0.com</string>
+
+
+</resources>

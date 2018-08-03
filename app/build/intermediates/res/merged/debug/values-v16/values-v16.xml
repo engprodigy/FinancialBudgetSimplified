@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Lock.Theme.Text">
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">@color/com_auth0_lock_normal_text</item>
+    </style>
+    <style name="Lock.Theme.Text.SocialButton">
+        <item name="android:fontFamily">sans-serif-medium</item>
+        <item name="android:gravity">center|left</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:maxLines">1</item>
+        <item name="android:paddingLeft">@dimen/com_auth0_lock_widget_with_text_horizontal_padding
+        </item>
+        <item name="android:paddingRight">
+            @dimen/com_auth0_lock_widget_with_text_horizontal_padding
+        </item>
+        <item name="android:singleLine">true</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:textSize">@dimen/com_auth0_lock_social_button_text</item>
+        <item name="android:textColor">@color/com_auth0_lock_social_text</item>
+    </style>
+</resources>

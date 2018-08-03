@@ -1,0 +1,510 @@
+[
+    {
+        "merged": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\date_picker_layout.xml",
+        "source": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\src\\main\\res\\layout\\date_picker_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_whats_hot.xml",
+        "source": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\src\\main\\res\\layout\\fragment_whats_hot.xml"
+    },
+    {
+        "merged": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\arraylist_test.xml",
+        "source": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\src\\main\\res\\layout\\arraylist_test.xml"
+    },
+    {
+        "merged": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\custom_marker_view.xml",
+        "source": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\src\\main\\res\\layout\\custom_marker_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\frag_simple_line.xml",
+        "source": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\src\\main\\res\\layout\\frag_simple_line.xml"
+    },
+    {
+        "merged": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_accounts_view.xml",
+        "source": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\src\\main\\res\\layout\\activity_accounts_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_auth0_lock_signup_form_view.xml",
+        "source": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\exploded-aar\\com.auth0.android\\lock\\2.0.0\\res\\layout\\com_auth0_lock_signup_form_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_radarchart.xml",
+        "source": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\src\\main\\res\\layout\\activity_radarchart.xml"
+    },
+    {
+        "merged": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_piechart.xml",
+        "source": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\src\\main\\res\\layout\\activity_piechart.xml"
+    },
+    {
+        "merged": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_colored_lines.xml",
+        "source": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\src\\main\\res\\layout\\activity_colored_lines.xml"
+    },
+    {
+        "merged": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_listview_chart.xml",
+        "source": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\src\\main\\res\\layout\\activity_listview_chart.xml"
+    },
+    {
+        "merged": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\category_listrow_group.xml",
+        "source": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\src\\main\\res\\layout\\category_listrow_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\budget_view.xml",
+        "source": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\src\\main\\res\\layout\\budget_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login_update.xml",
+        "source": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\src\\main\\res\\layout\\activity_login_update.xml"
+    },
+    {
+        "merged": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row.xml",
+        "source": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\src\\main\\res\\layout\\row.xml"
+    },
+    {
+        "merged": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_horizontalbarchart.xml",
+        "source": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\src\\main\\res\\layout\\activity_horizontalbarchart.xml"
+    },
+    {
+        "merged": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_candlechart.xml",
+        "source": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\src\\main\\res\\layout\\activity_candlechart.xml"
+    },
+    {
+        "merged": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_auth0_lock_tab_layout.xml",
+        "source": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\exploded-aar\\com.auth0.android\\lock\\2.0.0\\res\\layout\\com_auth0_lock_tab_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_auth0_lock_action_button.xml",
+        "source": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\exploded-aar\\com.auth0.android\\lock\\2.0.0\\res\\layout\\com_auth0_lock_action_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_budget_setup.xml",
+        "source": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\src\\main\\res\\layout\\activity_budget_setup.xml"
+    },
+    {
+        "merged": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_start.xml",
+        "source": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\src\\main\\res\\layout\\activity_start.xml"
+    },
+    {
+        "merged": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_auth0_lock_sso_layout.xml",
+        "source": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\exploded-aar\\com.auth0.android\\lock\\2.0.0\\res\\layout\\com_auth0_lock_sso_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_barchart.xml",
+        "source": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\src\\main\\res\\layout\\list_item_barchart.xml"
+    },
+    {
+        "merged": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_auth0_lock_passwordless_input_code_form_view.xml",
+        "source": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\exploded-aar\\com.auth0.android\\lock\\2.0.0\\res\\layout\\com_auth0_lock_passwordless_input_code_form_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_report.xml",
+        "source": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\src\\main\\res\\layout\\layout_report.xml"
+    },
+    {
+        "merged": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_barchart.xml",
+        "source": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\src\\main\\res\\layout\\activity_barchart.xml"
+    },
+    {
+        "merged": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main2.xml",
+        "source": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\src\\main\\res\\layout\\activity_main2.xml"
+    },
+    {
+        "merged": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_auth0_lock_login_form_view.xml",
+        "source": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\exploded-aar\\com.auth0.android\\lock\\2.0.0\\res\\layout\\com_auth0_lock_login_form_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\frag_simple_pie.xml",
+        "source": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\src\\main\\res\\layout\\frag_simple_pie.xml"
+    },
+    {
+        "merged": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_text_input_password_icon.xml",
+        "source": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_view__entry_history.xml",
+        "source": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\src\\main\\res\\layout\\activity_view__entry_history.xml"
+    },
+    {
+        "merged": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_auth0_lock_activity_lock.xml",
+        "source": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\exploded-aar\\com.auth0.android\\lock\\2.0.0\\res\\layout\\com_auth0_lock_activity_lock.xml"
+    },
+    {
+        "merged": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_auth0_lock_terms_layout.xml",
+        "source": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\exploded-aar\\com.auth0.android\\lock\\2.0.0\\res\\layout\\com_auth0_lock_terms_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_auth0_lock_changepwd_form_view.xml",
+        "source": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\exploded-aar\\com.auth0.android\\lock\\2.0.0\\res\\layout\\com_auth0_lock_changepwd_form_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_auth0_lock_mfa_input_code_form_view.xml",
+        "source": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\exploded-aar\\com.auth0.android\\lock\\2.0.0\\res\\layout\\com_auth0_lock_mfa_input_code_form_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_linechart.xml",
+        "source": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\src\\main\\res\\layout\\activity_linechart.xml"
+    },
+    {
+        "merged": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_scatterchart.xml",
+        "source": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\src\\main\\res\\layout\\activity_scatterchart.xml"
+    },
+    {
+        "merged": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_main.xml",
+        "source": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\src\\main\\res\\layout\\layout_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_auth0_lock_validated_input_view.xml",
+        "source": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\exploded-aar\\com.auth0.android\\lock\\2.0.0\\res\\layout\\com_auth0_lock_validated_input_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_auth0_activity_web_auth.xml",
+        "source": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\exploded-aar\\com.auth0.android\\auth0\\1.0.0\\res\\layout\\com_auth0_activity_web_auth.xml"
+    },
+    {
+        "merged": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_auth0_lock_passwordless_activity_country_code.xml",
+        "source": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\exploded-aar\\com.auth0.android\\lock\\2.0.0\\res\\layout\\com_auth0_lock_passwordless_activity_country_code.xml"
+    },
+    {
+        "merged": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_auth0_lock_custom_fields_form_view.xml",
+        "source": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\exploded-aar\\com.auth0.android\\lock\\2.0.0\\res\\layout\\com_auth0_lock_custom_fields_form_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_auth0_lock_btn_social_large.xml",
+        "source": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\exploded-aar\\com.auth0.android\\lock\\2.0.0\\res\\layout\\com_auth0_lock_btn_social_large.xml"
+    },
+    {
+        "merged": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_find_people.xml",
+        "source": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\src\\main\\res\\layout\\fragment_find_people.xml"
+    },
+    {
+        "merged": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_auth0_lock_tab.xml",
+        "source": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\exploded-aar\\com.auth0.android\\lock\\2.0.0\\res\\layout\\com_auth0_lock_tab.xml"
+    },
+    {
+        "merged": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_awesomedesign.xml",
+        "source": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\src\\main\\res\\layout\\activity_awesomedesign.xml"
+    },
+    {
+        "merged": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_auth0_lock_passwordless_request_code_form_view.xml",
+        "source": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\exploded-aar\\com.auth0.android\\lock\\2.0.0\\res\\layout\\com_auth0_lock_passwordless_request_code_form_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_photos.xml",
+        "source": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\src\\main\\res\\layout\\fragment_photos.xml"
+    },
+    {
+        "merged": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_pages.xml",
+        "source": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\src\\main\\res\\layout\\fragment_pages.xml"
+    },
+    {
+        "merged": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_item.xml",
+        "source": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\src\\main\\res\\layout\\list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_monthly_budget_amount_setup_main.xml",
+        "source": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\src\\main\\res\\layout\\activity_monthly_budget_amount_setup_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_auth0_lock_activity_lock_passwordless.xml",
+        "source": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\exploded-aar\\com.auth0.android\\lock\\2.0.0\\res\\layout\\com_auth0_lock_activity_lock_passwordless.xml"
+    },
+    {
+        "merged": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_auth0_lock_btn_social_small.xml",
+        "source": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\exploded-aar\\com.auth0.android\\lock\\2.0.0\\res\\layout\\com_auth0_lock_btn_social_small.xml"
+    },
+    {
+        "merged": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_home.xml",
+        "source": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_auth0_lock_passwordless_item_country_code.xml",
+        "source": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\exploded-aar\\com.auth0.android\\lock\\2.0.0\\res\\layout\\com_auth0_lock_passwordless_item_country_code.xml"
+    },
+    {
+        "merged": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\drawer_list_activity_main.xml",
+        "source": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\src\\main\\res\\layout\\drawer_list_activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\entry_history_view.xml",
+        "source": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\src\\main\\res\\layout\\entry_history_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\frag_simple_scatter.xml",
+        "source": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\src\\main\\res\\layout\\frag_simple_scatter.xml"
+    },
+    {
+        "merged": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_history_fragment_delete.xml",
+        "source": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\src\\main\\res\\layout\\activity_history_fragment_delete.xml"
+    },
+    {
+        "merged": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_piechart.xml",
+        "source": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\src\\main\\res\\layout\\list_item_piechart.xml"
+    },
+    {
+        "merged": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\drawer_list_item.xml",
+        "source": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\src\\main\\res\\layout\\drawer_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_auth0_lock_header.xml",
+        "source": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\exploded-aar\\com.auth0.android\\lock\\2.0.0\\res\\layout\\com_auth0_lock_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listview_report.xml",
+        "source": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\src\\main\\res\\layout\\listview_report.xml"
+    },
+    {
+        "merged": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\category_main_activity.xml",
+        "source": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\src\\main\\res\\layout\\category_main_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_draw_chart.xml",
+        "source": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\src\\main\\res\\layout\\activity_draw_chart.xml"
+    },
+    {
+        "merged": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\expense_view.xml",
+        "source": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\src\\main\\res\\layout\\expense_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\frag_simple_bar.xml",
+        "source": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\src\\main\\res\\layout\\frag_simple_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_auth0_lock_passwordless_country_code_selector.xml",
+        "source": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\exploded-aar\\com.auth0.android\\lock\\2.0.0\\res\\layout\\com_auth0_lock_passwordless_country_code_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\accounts_view.xml",
+        "source": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\src\\main\\res\\layout\\accounts_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_auth0_lock_checkable_option.xml",
+        "source": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\exploded-aar\\com.auth0.android\\lock\\2.0.0\\res\\layout\\com_auth0_lock_checkable_option.xml"
+    },
+    {
+        "merged": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_community.xml",
+        "source": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\src\\main\\res\\layout\\fragment_community.xml"
+    },
+    {
+        "merged": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_linechart.xml",
+        "source": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\src\\main\\res\\layout\\list_item_linechart.xml"
+    },
+    {
+        "merged": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_linechart_noseekbar.xml",
+        "source": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\src\\main\\res\\layout\\activity_linechart_noseekbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row2.xml",
+        "source": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\src\\main\\res\\layout\\row2.xml"
+    },
+    {
+        "merged": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_auth0_lock_password_strength.xml",
+        "source": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\exploded-aar\\com.auth0.android\\lock\\2.0.0\\res\\layout\\com_auth0_lock_password_strength.xml"
+    },
+    {
+        "merged": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\res\\merged\\debug\\layout\\category_listrow_details.xml",
+        "source": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\src\\main\\res\\layout\\category_listrow_details.xml"
+    }
+]

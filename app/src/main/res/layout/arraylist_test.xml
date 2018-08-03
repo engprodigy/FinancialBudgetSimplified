@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginBottom="10dp"
+        android:layout_marginTop="20dp"
+        android:gravity="center_horizontal"
+        android:text="@string/selectDateRange"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="#0CF" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_gravity="center_horizontal"
+        android:gravity="center_horizontal"
+        android:orientation="horizontal" >
+     <LinearLayout
+         android:layout_width= "120dp"
+         android:layout_height="50dp">
+        <Button
+            android:id="@+id/StartDate"
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:text="@string/startdate" 
+            android:textColor="#ffffff"
+            android:background="@drawable/btn_blue"/>
+        
+        </LinearLayout>
+      <LinearLayout
+          android:layout_width="120dp"
+          android:layout_height="50dp">
+        <Button
+            android:id="@+id/EndDate"
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:text="@string/enddate" 
+            android:textColor="#ffffff"
+            android:background="@drawable/btn_blue"/>
+        
+        </LinearLayout>
+
+    </LinearLayout>
+
+     <LinearLayout
+         android:layout_width="match_parent"
+         android:layout_height="40dp" >
+
+         <TextView
+             android:id="@+id/StartDateView"
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content"
+             android:layout_marginRight="120dp"
+             android:layout_marginLeft="25dp"
+             android:text=" "
+             android:textColor="#6CF" />
+
+         <TextView
+             android:id="@+id/endDateView"
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content"
+             android:text=" "
+             android:textColor="#6CF" />
+
+    </LinearLayout>
+    <LinearLayout
+         android:layout_width="match_parent"
+         android:layout_height="50dp"
+         android:layout_gravity="center_horizontal"
+        android:gravity="center_horizontal" >
+
+        <Button
+            android:id="@+id/entryRetrieve"
+            android:layout_width="150dp"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            
+            android:text="@string/retrieve_entry"
+            android:textColor="#ffffff"
+            android:background="@drawable/btn_green" />
+
+    </LinearLayout>
+    
+    <LinearLayout
+         android:layout_width="match_parent"
+         android:layout_marginTop="10dp"
+         android:layout_height="50dp" 
+         android:layout_gravity="center_horizontal"
+        android:gravity="center_horizontal"
+         >
+
+        <TextView
+            android:id="@+id/Last20Entry"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/last20entry"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="#0CF" />
+
+    </LinearLayout>
+    
+    <ListView
+    android:id="@+id/android:list"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    />
+<TextView
+    android:id="@+id/android:empty"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:text="@string/main_no_items"/>
+
+<TextView android:id="@android:id/empty"
+               android:layout_width="match_parent"
+               android:layout_height="match_parent"
+               android:background="#FF0000"
+               android:text="@string/nodata"/>
+    
+
+</LinearLayout>

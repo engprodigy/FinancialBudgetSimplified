@@ -1,0 +1,7 @@
+#Wed Mar 08 09:22:32 WAT 2017
+base.0=C\:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_984c214a3a57a17b59cce81771e3f63072f38417
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_dfe9249870397f65ac3d6696b3358271a2f9dddc\\classes.dex
+base.1=C\:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_dfe9249870397f65ac3d6696b3358271a2f9dddc
+file.0=C\:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_984c214a3a57a17b59cce81771e3f63072f38417\\classes.dex

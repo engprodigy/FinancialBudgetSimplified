@@ -1,0 +1,70 @@
+[
+    {
+        "merged": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\res\\merged\\debug\\menu\\line.xml",
+        "source": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\src\\main\\res\\menu\\line.xml"
+    },
+    {
+        "merged": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\res\\merged\\debug\\menu\\candle.xml",
+        "source": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\src\\main\\res\\menu\\candle.xml"
+    },
+    {
+        "merged": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\res\\merged\\debug\\menu\\dynamical.xml",
+        "source": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\src\\main\\res\\menu\\dynamical.xml"
+    },
+    {
+        "merged": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\res\\merged\\debug\\menu\\pie.xml",
+        "source": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\src\\main\\res\\menu\\pie.xml"
+    },
+    {
+        "merged": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\res\\merged\\debug\\menu\\radar.xml",
+        "source": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\src\\main\\res\\menu\\radar.xml"
+    },
+    {
+        "merged": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_view__entry_history.xml",
+        "source": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\src\\main\\res\\menu\\activity_view__entry_history.xml"
+    },
+    {
+        "merged": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main2.xml",
+        "source": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\src\\main\\res\\menu\\main2.xml"
+    },
+    {
+        "merged": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\res\\merged\\debug\\menu\\draw.xml",
+        "source": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\src\\main\\res\\menu\\draw.xml"
+    },
+    {
+        "merged": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_account_type.xml",
+        "source": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\src\\main\\res\\menu\\activity_account_type.xml"
+    },
+    {
+        "merged": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_accounts_view.xml",
+        "source": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\src\\main\\res\\menu\\activity_accounts_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_monthly_budget_amount_setup_main.xml",
+        "source": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\src\\main\\res\\menu\\activity_monthly_budget_amount_setup_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_main.xml",
+        "source": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\src\\main\\res\\menu\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\res\\merged\\debug\\menu\\scatter.xml",
+        "source": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\src\\main\\res\\menu\\scatter.xml"
+    },
+    {
+        "merged": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\res\\merged\\debug\\menu\\bar.xml",
+        "source": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\src\\main\\res\\menu\\bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_list_view_loader.xml",
+        "source": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\src\\main\\res\\menu\\activity_list_view_loader.xml"
+    },
+    {
+        "merged": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_budget_setup.xml",
+        "source": "C:\\Users\\BELLO\\AndroidStudioProjects\\com.dianet.efd_app.MainActivity\\app\\src\\main\\res\\menu\\activity_budget_setup.xml"
+    }
+]
